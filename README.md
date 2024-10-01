@@ -1,2 +1,2 @@
-# wxWD
+# wxWD1
 wxGUI
